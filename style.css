@@ -387,7 +387,7 @@ h3 {
     height: 90%;
 }
 
-.project-title {
+.experience-sub-title.project.title {
     margin: 1rem;
     color: black;
 }
@@ -397,10 +397,11 @@ h3 {
     border-color: rgb(163, 163, 163);
 }
 
-.smaller-img {
-    max-width: 105px; /* Set the maximum width */
-    height: auto; /* Maintain the aspect ratio */
+.smaller-img { 
+    width: 105px;
+    height: auto;
 }
+
 
 /* CONTACT */
 
