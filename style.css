@@ -397,6 +397,11 @@ h3 {
     border-color: rgb(163, 163, 163);
 }
 
+.smaller-img {
+    max-width: 105px; /* Set the maximum width */
+    height: auto; /* Maintain the aspect ratio */
+}
+
 /* CONTACT */
 
 #contact {
